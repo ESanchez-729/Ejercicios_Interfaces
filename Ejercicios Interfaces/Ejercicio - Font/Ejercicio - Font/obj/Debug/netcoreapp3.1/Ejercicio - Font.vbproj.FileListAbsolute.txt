@@ -1,0 +1,32 @@
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Font\Ejercicio - Font\obj\Debug\netcoreapp3.1\Ejercicio - Font.vbproj.AssemblyReference.cache
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Font\Ejercicio - Font\obj\Debug\netcoreapp3.1\Ejercicio___Font.Form1.resources
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Font\Ejercicio - Font\obj\Debug\netcoreapp3.1\Ejercicio - Font.vbproj.GenerateResource.cache
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Font\Ejercicio - Font\obj\Debug\netcoreapp3.1\Ejercicio - Font.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Font\Ejercicio - Font\obj\Debug\netcoreapp3.1\Ejercicio - Font.AssemblyInfoInputs.cache
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Font\Ejercicio - Font\obj\Debug\netcoreapp3.1\Ejercicio - Font.AssemblyInfo.vb
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Font\Ejercicio - Font\obj\Debug\netcoreapp3.1\Ejercicio - Font.vbproj.CoreCompileInputs.cache
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Font\Ejercicio - Font\bin\Debug\netcoreapp3.1\Ejercicio - Font.exe
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Font\Ejercicio - Font\bin\Debug\netcoreapp3.1\Ejercicio - Font.deps.json
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Font\Ejercicio - Font\bin\Debug\netcoreapp3.1\Ejercicio - Font.runtimeconfig.json
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Font\Ejercicio - Font\bin\Debug\netcoreapp3.1\Ejercicio - Font.runtimeconfig.dev.json
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Font\Ejercicio - Font\bin\Debug\netcoreapp3.1\Ejercicio - Font.dll
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Font\Ejercicio - Font\bin\Debug\netcoreapp3.1\Ejercicio - Font.pdb
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Font\Ejercicio - Font\obj\Debug\netcoreapp3.1\Ejercicio - Font.dll
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Font\Ejercicio - Font\obj\Debug\netcoreapp3.1\Ejercicio - Font.pdb
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Font\Ejercicio - Font\obj\Debug\netcoreapp3.1\Ejercicio - Font.genruntimeconfig.cache
+C:\Users\Willi\OneDrive\Desktop\repos\Ejercicio - Font\Ejercicio - Font\bin\Debug\netcoreapp3.1\Ejercicio - Font.exe
+C:\Users\Willi\OneDrive\Desktop\repos\Ejercicio - Font\Ejercicio - Font\bin\Debug\netcoreapp3.1\Ejercicio - Font.deps.json
+C:\Users\Willi\OneDrive\Desktop\repos\Ejercicio - Font\Ejercicio - Font\bin\Debug\netcoreapp3.1\Ejercicio - Font.runtimeconfig.json
+C:\Users\Willi\OneDrive\Desktop\repos\Ejercicio - Font\Ejercicio - Font\bin\Debug\netcoreapp3.1\Ejercicio - Font.runtimeconfig.dev.json
+C:\Users\Willi\OneDrive\Desktop\repos\Ejercicio - Font\Ejercicio - Font\bin\Debug\netcoreapp3.1\Ejercicio - Font.dll
+C:\Users\Willi\OneDrive\Desktop\repos\Ejercicio - Font\Ejercicio - Font\bin\Debug\netcoreapp3.1\Ejercicio - Font.pdb
+C:\Users\Willi\OneDrive\Desktop\repos\Ejercicio - Font\Ejercicio - Font\obj\Debug\netcoreapp3.1\Ejercicio - Font.vbproj.AssemblyReference.cache
+C:\Users\Willi\OneDrive\Desktop\repos\Ejercicio - Font\Ejercicio - Font\obj\Debug\netcoreapp3.1\Ejercicio___Font.Form1.resources
+C:\Users\Willi\OneDrive\Desktop\repos\Ejercicio - Font\Ejercicio - Font\obj\Debug\netcoreapp3.1\Ejercicio - Font.vbproj.GenerateResource.cache
+C:\Users\Willi\OneDrive\Desktop\repos\Ejercicio - Font\Ejercicio - Font\obj\Debug\netcoreapp3.1\Ejercicio - Font.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Willi\OneDrive\Desktop\repos\Ejercicio - Font\Ejercicio - Font\obj\Debug\netcoreapp3.1\Ejercicio - Font.AssemblyInfoInputs.cache
+C:\Users\Willi\OneDrive\Desktop\repos\Ejercicio - Font\Ejercicio - Font\obj\Debug\netcoreapp3.1\Ejercicio - Font.AssemblyInfo.vb
+C:\Users\Willi\OneDrive\Desktop\repos\Ejercicio - Font\Ejercicio - Font\obj\Debug\netcoreapp3.1\Ejercicio - Font.vbproj.CoreCompileInputs.cache
+C:\Users\Willi\OneDrive\Desktop\repos\Ejercicio - Font\Ejercicio - Font\obj\Debug\netcoreapp3.1\Ejercicio - Font.dll
+C:\Users\Willi\OneDrive\Desktop\repos\Ejercicio - Font\Ejercicio - Font\obj\Debug\netcoreapp3.1\Ejercicio - Font.pdb
+C:\Users\Willi\OneDrive\Desktop\repos\Ejercicio - Font\Ejercicio - Font\obj\Debug\netcoreapp3.1\Ejercicio - Font.genruntimeconfig.cache

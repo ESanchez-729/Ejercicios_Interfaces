@@ -1,0 +1,16 @@
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Portapapeles\Ejercicio - Portapapeles\obj\Debug\netcoreapp3.1\Ejercicio___Portapapeles.Form1.resources
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Portapapeles\Ejercicio - Portapapeles\obj\Debug\netcoreapp3.1\Ejercicio - Portapapeles.vbproj.GenerateResource.cache
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Portapapeles\Ejercicio - Portapapeles\obj\Debug\netcoreapp3.1\Ejercicio - Portapapeles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Portapapeles\Ejercicio - Portapapeles\obj\Debug\netcoreapp3.1\Ejercicio - Portapapeles.AssemblyInfoInputs.cache
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Portapapeles\Ejercicio - Portapapeles\obj\Debug\netcoreapp3.1\Ejercicio - Portapapeles.AssemblyInfo.vb
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Portapapeles\Ejercicio - Portapapeles\obj\Debug\netcoreapp3.1\Ejercicio - Portapapeles.vbproj.CoreCompileInputs.cache
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Portapapeles\Ejercicio - Portapapeles\bin\Debug\netcoreapp3.1\Ejercicio - Portapapeles.exe
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Portapapeles\Ejercicio - Portapapeles\bin\Debug\netcoreapp3.1\Ejercicio - Portapapeles.deps.json
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Portapapeles\Ejercicio - Portapapeles\bin\Debug\netcoreapp3.1\Ejercicio - Portapapeles.runtimeconfig.json
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Portapapeles\Ejercicio - Portapapeles\bin\Debug\netcoreapp3.1\Ejercicio - Portapapeles.runtimeconfig.dev.json
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Portapapeles\Ejercicio - Portapapeles\bin\Debug\netcoreapp3.1\Ejercicio - Portapapeles.dll
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Portapapeles\Ejercicio - Portapapeles\bin\Debug\netcoreapp3.1\Ejercicio - Portapapeles.pdb
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Portapapeles\Ejercicio - Portapapeles\obj\Debug\netcoreapp3.1\Ejercicio - Portapapeles.dll
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Portapapeles\Ejercicio - Portapapeles\obj\Debug\netcoreapp3.1\Ejercicio - Portapapeles.pdb
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Portapapeles\Ejercicio - Portapapeles\obj\Debug\netcoreapp3.1\Ejercicio - Portapapeles.genruntimeconfig.cache
+C:\Users\DAM2Alu16\source\repos\Ejercicio - Portapapeles\Ejercicio - Portapapeles\obj\Debug\netcoreapp3.1\Ejercicio - Portapapeles.vbproj.AssemblyReference.cache

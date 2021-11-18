@@ -1,0 +1,12 @@
+C:\Users\Willi\source\repos\Examen_Ejercicio2\Examen_Ejercicio2\bin\Debug\Examen_Ejercicio2.exe.config
+C:\Users\Willi\source\repos\Examen_Ejercicio2\Examen_Ejercicio2\bin\Debug\Examen_Ejercicio2.exe
+C:\Users\Willi\source\repos\Examen_Ejercicio2\Examen_Ejercicio2\bin\Debug\Examen_Ejercicio2.pdb
+C:\Users\Willi\source\repos\Examen_Ejercicio2\Examen_Ejercicio2\bin\Debug\Examen_Ejercicio2.xml
+C:\Users\Willi\source\repos\Examen_Ejercicio2\Examen_Ejercicio2\obj\Debug\Examen_Ejercicio2.vbproj.AssemblyReference.cache
+C:\Users\Willi\source\repos\Examen_Ejercicio2\Examen_Ejercicio2\obj\Debug\Examen_Ejercicio2.Form1.resources
+C:\Users\Willi\source\repos\Examen_Ejercicio2\Examen_Ejercicio2\obj\Debug\Examen_Ejercicio2.Resources.resources
+C:\Users\Willi\source\repos\Examen_Ejercicio2\Examen_Ejercicio2\obj\Debug\Examen_Ejercicio2.vbproj.GenerateResource.cache
+C:\Users\Willi\source\repos\Examen_Ejercicio2\Examen_Ejercicio2\obj\Debug\Examen_Ejercicio2.vbproj.CoreCompileInputs.cache
+C:\Users\Willi\source\repos\Examen_Ejercicio2\Examen_Ejercicio2\obj\Debug\Examen_Ejercicio2.exe
+C:\Users\Willi\source\repos\Examen_Ejercicio2\Examen_Ejercicio2\obj\Debug\Examen_Ejercicio2.xml
+C:\Users\Willi\source\repos\Examen_Ejercicio2\Examen_Ejercicio2\obj\Debug\Examen_Ejercicio2.pdb

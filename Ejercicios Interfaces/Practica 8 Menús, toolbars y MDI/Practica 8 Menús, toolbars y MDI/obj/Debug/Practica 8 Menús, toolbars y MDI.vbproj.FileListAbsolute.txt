@@ -1,0 +1,15 @@
+C:\Users\Willi\source\repos\Practica 8 Menús, toolbars y MDI\Practica 8 Menús, toolbars y MDI\bin\Debug\Practica 8 Menús, toolbars y MDI.exe.config
+C:\Users\Willi\source\repos\Practica 8 Menús, toolbars y MDI\Practica 8 Menús, toolbars y MDI\bin\Debug\Practica 8 Menús, toolbars y MDI.exe
+C:\Users\Willi\source\repos\Practica 8 Menús, toolbars y MDI\Practica 8 Menús, toolbars y MDI\bin\Debug\Practica 8 Menús, toolbars y MDI.pdb
+C:\Users\Willi\source\repos\Practica 8 Menús, toolbars y MDI\Practica 8 Menús, toolbars y MDI\bin\Debug\Practica 8 Menús, toolbars y MDI.xml
+C:\Users\Willi\source\repos\Practica 8 Menús, toolbars y MDI\Practica 8 Menús, toolbars y MDI\obj\Debug\Practica 8 Menús, toolbars y MDI.vbproj.AssemblyReference.cache
+C:\Users\Willi\source\repos\Practica 8 Menús, toolbars y MDI\Practica 8 Menús, toolbars y MDI\obj\Debug\Practica_8_Menús__toolbars_y_MDI.Form1.resources
+C:\Users\Willi\source\repos\Practica 8 Menús, toolbars y MDI\Practica 8 Menús, toolbars y MDI\obj\Debug\Practica_8_Menús__toolbars_y_MDI.Resources.resources
+C:\Users\Willi\source\repos\Practica 8 Menús, toolbars y MDI\Practica 8 Menús, toolbars y MDI\obj\Debug\Practica 8 Menús, toolbars y MDI.vbproj.GenerateResource.cache
+C:\Users\Willi\source\repos\Practica 8 Menús, toolbars y MDI\Practica 8 Menús, toolbars y MDI\obj\Debug\Practica 8 Menús, toolbars y MDI.vbproj.CoreCompileInputs.cache
+C:\Users\Willi\source\repos\Practica 8 Menús, toolbars y MDI\Practica 8 Menús, toolbars y MDI\obj\Debug\Practica 8 Menús, toolbars y MDI.exe
+C:\Users\Willi\source\repos\Practica 8 Menús, toolbars y MDI\Practica 8 Menús, toolbars y MDI\obj\Debug\Practica 8 Menús, toolbars y MDI.xml
+C:\Users\Willi\source\repos\Practica 8 Menús, toolbars y MDI\Practica 8 Menús, toolbars y MDI\obj\Debug\Practica 8 Menús, toolbars y MDI.pdb
+C:\Users\Willi\source\repos\Practica 8 Menús, toolbars y MDI\Practica 8 Menús, toolbars y MDI\obj\Debug\Practica_8_Menús__toolbars_y_MDI.FormImagen.resources
+C:\Users\Willi\source\repos\Practica 8 Menús, toolbars y MDI\Practica 8 Menús, toolbars y MDI\obj\Debug\Practica_8_Menús__toolbars_y_MDI.FormTexto.resources
+C:\Users\Willi\source\repos\Practica 8 Menús, toolbars y MDI\Practica 8 Menús, toolbars y MDI\obj\Debug\Practica_8_Menús__toolbars_y_MDI.Acerca_de.resources

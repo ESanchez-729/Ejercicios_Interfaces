@@ -1,0 +1,24 @@
+C:\Users\DAM2Alu16\source\repos\Menues y Toolbars\Menues y Toolbars\bin\Debug\Menues y Toolbars.exe.config
+C:\Users\DAM2Alu16\source\repos\Menues y Toolbars\Menues y Toolbars\bin\Debug\Menues y Toolbars.exe
+C:\Users\DAM2Alu16\source\repos\Menues y Toolbars\Menues y Toolbars\bin\Debug\Menues y Toolbars.pdb
+C:\Users\DAM2Alu16\source\repos\Menues y Toolbars\Menues y Toolbars\bin\Debug\Menues y Toolbars.xml
+C:\Users\DAM2Alu16\source\repos\Menues y Toolbars\Menues y Toolbars\obj\Debug\Menues y Toolbars.vbproj.AssemblyReference.cache
+C:\Users\DAM2Alu16\source\repos\Menues y Toolbars\Menues y Toolbars\obj\Debug\Menues_y_Toolbars.Form1.resources
+C:\Users\DAM2Alu16\source\repos\Menues y Toolbars\Menues y Toolbars\obj\Debug\Menues_y_Toolbars.Resources.resources
+C:\Users\DAM2Alu16\source\repos\Menues y Toolbars\Menues y Toolbars\obj\Debug\Menues y Toolbars.vbproj.GenerateResource.cache
+C:\Users\DAM2Alu16\source\repos\Menues y Toolbars\Menues y Toolbars\obj\Debug\Menues y Toolbars.vbproj.CoreCompileInputs.cache
+C:\Users\DAM2Alu16\source\repos\Menues y Toolbars\Menues y Toolbars\obj\Debug\Menues y Toolbars.exe
+C:\Users\DAM2Alu16\source\repos\Menues y Toolbars\Menues y Toolbars\obj\Debug\Menues y Toolbars.xml
+C:\Users\DAM2Alu16\source\repos\Menues y Toolbars\Menues y Toolbars\obj\Debug\Menues y Toolbars.pdb
+C:\Users\Willi\OneDrive\Desktop\repos\Menues y Toolbars\Menues y Toolbars\bin\Debug\Menues y Toolbars.exe.config
+C:\Users\Willi\OneDrive\Desktop\repos\Menues y Toolbars\Menues y Toolbars\bin\Debug\Menues y Toolbars.exe
+C:\Users\Willi\OneDrive\Desktop\repos\Menues y Toolbars\Menues y Toolbars\bin\Debug\Menues y Toolbars.pdb
+C:\Users\Willi\OneDrive\Desktop\repos\Menues y Toolbars\Menues y Toolbars\bin\Debug\Menues y Toolbars.xml
+C:\Users\Willi\OneDrive\Desktop\repos\Menues y Toolbars\Menues y Toolbars\obj\Debug\Menues y Toolbars.vbproj.AssemblyReference.cache
+C:\Users\Willi\OneDrive\Desktop\repos\Menues y Toolbars\Menues y Toolbars\obj\Debug\Menues_y_Toolbars.Form1.resources
+C:\Users\Willi\OneDrive\Desktop\repos\Menues y Toolbars\Menues y Toolbars\obj\Debug\Menues_y_Toolbars.Resources.resources
+C:\Users\Willi\OneDrive\Desktop\repos\Menues y Toolbars\Menues y Toolbars\obj\Debug\Menues y Toolbars.vbproj.GenerateResource.cache
+C:\Users\Willi\OneDrive\Desktop\repos\Menues y Toolbars\Menues y Toolbars\obj\Debug\Menues y Toolbars.vbproj.CoreCompileInputs.cache
+C:\Users\Willi\OneDrive\Desktop\repos\Menues y Toolbars\Menues y Toolbars\obj\Debug\Menues y Toolbars.exe
+C:\Users\Willi\OneDrive\Desktop\repos\Menues y Toolbars\Menues y Toolbars\obj\Debug\Menues y Toolbars.xml
+C:\Users\Willi\OneDrive\Desktop\repos\Menues y Toolbars\Menues y Toolbars\obj\Debug\Menues y Toolbars.pdb
